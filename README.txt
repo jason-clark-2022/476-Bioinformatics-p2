@@ -7,6 +7,3 @@ is entered the user will be prompted to select the algorithm they would like to 
 data values. The following user input corresponds to the algorithm that will be run:
 u - UPGMA algorithm
 n - Neighbor Joining algorithm
-
-Note- The programs execution on the home server seems to mess with the print statements of the program
-and I cannot seem to figure out why this is.
